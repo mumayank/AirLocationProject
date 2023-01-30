@@ -17,9 +17,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AirLocationProject">
 
-        <service
+        <!--<service
             android:name="MyNavigationService"
-            android:foregroundServiceType="location" />
+            android:foregroundServiceType="location" />-->
 
     </application>
 

@@ -8,7 +8,6 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.mumayank.airlocation"
         minSdk 21
         targetSdk 33
         versionCode 1
